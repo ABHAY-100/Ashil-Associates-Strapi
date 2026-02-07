@@ -1,0 +1,7 @@
+/**
+ * career-position controller
+ */
+
+import { factories } from '@strapi/strapi';
+
+export default factories.createCoreController('api::career-position.career-position');
