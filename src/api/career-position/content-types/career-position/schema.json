@@ -17,9 +17,6 @@
     "description": {
       "type": "text"
     },
-    "department": {
-      "type": "string"
-    },
     "location": {
       "type": "string"
     },
